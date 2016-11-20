@@ -3468,5 +3468,10 @@
     "op": "add",
     "path": "/genders/1/hair/-",
     "value": "nkmale19"
+  },
+  {
+    "op": "add",
+    "path": "/IHCvar0",
+    "value": 1
   }
 ]
