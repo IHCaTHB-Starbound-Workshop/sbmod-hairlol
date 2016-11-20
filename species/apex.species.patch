@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "path": "/genders/0/hairGroup",
-    "value": "hair"
-  },
-  {
-    "op": "replace",
     "path": "/genders/0/hair/0",
     "value": "apf1"
   },
@@ -1833,11 +1828,6 @@
     "op": "add",
     "path": "/genders/0/hair/-",
     "value": "nkmale19"
-  },
-  {
-    "op": "replace",
-    "path": "/genders/1/hairGroup",
-    "value": "hair"
   },
   {
     "op": "replace",
